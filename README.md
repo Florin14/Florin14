@@ -42,9 +42,14 @@
 </p>
 
 <!-- Banner Image -->
-<div align="center">
-  <img src="https://source.unsplash.com/1600x400/?code,technology" alt="Banner" width="100%" style="border-radius:12px; margin-bottom:24px;" />
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.jpg" 
+    alt="Stunning banner" 
+    width="100%"
+  />
+</p>
+
 
 ## 📈 GitHub Stats
 
