@@ -42,11 +42,13 @@
 </p>
 
 <!-- Banner Image -->
-<div align="center">
-  <!-- your existing badges here -->
-  <img src="https://komarev.com/ghpvc/?username=Florin14&color=blue&style=flat" alt="Profile views"/>
-  <!-- …etc… -->
-</div>
+<p align="center">
+  <img 
+    src="https://picsum.photos/id/1080/1600/400" 
+    alt="Stunning coding banner" 
+    width="100%" 
+  />
+</p>
 
 
 ## 📈 GitHub Stats
