@@ -29,7 +29,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img 
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftech-background&psig=AOvVaw2Dy0dhc2puIkoOy558DjQt&ust=1747056546497000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjW_P3Cm40DFQAAAAAdAAAAABAE" 
+    src="https://plus.unsplash.com/premium_photo-1683121713210-97667d2e83c8?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
     alt="Coding banner" 
     width="100%" 
     height="75%"
