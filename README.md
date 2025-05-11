@@ -44,9 +44,9 @@
 <!-- Banner Image -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Florin14/Florin14/main/assets/banner.jpg" 
-    alt="Stunning banner" 
-    width="100%"
+    src="https://source.unsplash.com/1600x400/?technology,coding" 
+    alt="Stunning coding banner" 
+    width="100%" 
   />
 </p>
 
