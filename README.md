@@ -44,7 +44,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.jpg" 
+    src="https://raw.githubusercontent.com/Florin14/Florin14/main/assets/banner.jpg" 
     alt="Stunning banner" 
     width="100%"
   />
