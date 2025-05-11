@@ -26,6 +26,15 @@
 - 🤝 Love collaborating in cross-functional teams
 - 📚 Avid self-learner: always picking up the latest tools and patterns
 
+<!-- Banner Image -->
+<p align="center">
+  <img 
+    src="https://source.unsplash.com/random/1600x400/?programming,coding" 
+    alt="Coding banner" 
+    width="100%" 
+  />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -40,16 +49,6 @@
   <img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat" alt="Git" height="28"/>
   <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat" alt="GitHub" height="28"/>
 </p>
-
-<!-- Banner Image -->
-<p align="center">
-  <img 
-    src="https://picsum.photos/id/1080/1600/400" 
-    alt="Stunning coding banner" 
-    width="100%" 
-  />
-</p>
-
 
 ## 📈 GitHub Stats
 
