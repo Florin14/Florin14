@@ -29,7 +29,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img 
-    src="https://i.pinimg.com/736x/36/fa/c6/36fac6ba2513f7b25c8b9cf8c886e370.jpg" 
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftech-background&psig=AOvVaw2Dy0dhc2puIkoOy558DjQt&ust=1747056546497000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjW_P3Cm40DFQAAAAAdAAAAABAE" 
     alt="Coding banner" 
     width="100%" 
     height="75%"
