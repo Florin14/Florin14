@@ -29,7 +29,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img 
-    src="https://source.unsplash.com/random/1600x400/?programming,coding](https://i.pinimg.com/736x/36/fa/c6/36fac6ba2513f7b25c8b9cf8c886e370.jpg" 
+    src="https://i.pinimg.com/736x/36/fa/c6/36fac6ba2513f7b25c8b9cf8c886e370.jpg" 
     alt="Coding banner" 
     width="100%" 
   />
