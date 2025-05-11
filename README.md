@@ -32,6 +32,7 @@
     src="https://i.pinimg.com/736x/36/fa/c6/36fac6ba2513f7b25c8b9cf8c886e370.jpg" 
     alt="Coding banner" 
     width="100%" 
+    height="75%"
   />
 </p>
 
