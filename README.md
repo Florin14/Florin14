@@ -41,7 +41,10 @@
   <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat" alt="GitHub" height="28"/>
 </p>
 
----
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://source.unsplash.com/1600x400/?code,technology" alt="Banner" width="100%" style="border-radius:12px; margin-bottom:24px;" />
+</div>
 
 ## 📈 GitHub Stats
 
