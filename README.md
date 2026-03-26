@@ -1,83 +1,106 @@
 <!--
   👋 Hi there, I'm Zimbru Grigore-Florin!
-  📍 Based in Cluj-Napoca, Cluj, Romania
-  🌱 Currently exploring FastAPI scaling patterns & advanced React patterns
+  📍 Based in Cluj-Napoca, Romania
+  🚀 Full-Stack Developer (React • TypeScript • Python/FastAPI)
 -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Florin14&color=blue&style=flat" alt="Profile views"/>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Florin14?tab=followers">
-    <img src="https://img.shields.io/badge/Followers--blue?style=flat&logo=github" alt="Followers"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Florin14">
-    <img src="https://img.shields.io/badge/Stars-★-blue?style=flat&logo=github" alt="Stars"/>
-  </a>
-</div>
+<h1 align="center">Hi, I'm Grigore-Florin Zimbru 👋</h1>
+<p align="center">
+  Full-Stack Developer • React & TypeScript • Python & FastAPI • Docker
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/grigore-florin-zimbru-513706203">LinkedIn</a> •
+  <a href="mailto:zimbru.florin.4@gmail.com">Email</a> •
+  <a href="https://github.com/Florin14?tab=repositories">Projects</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About
 
-- 🔭 I’m a **Full-Stack Developer** specializing in **React (JS/TS)** & **Python (FastAPI)**
-- 📱 Dabbled in **Flutter** for mobile
-- 🐳 Containerizing everything with **Docker**
-- 🤝 Love collaborating in cross-functional teams
-- 📚 Avid self-learner: always picking up the latest tools and patterns
+- 💼 Full-Stack Developer focused on **React (TS)** & **Python (FastAPI)**
+- 🧩 Experience with **REST APIs**, **clean architecture** and **SQL/ORMs**
+- 📱 Built and maintained internal tools and dashboards, plus mobile apps with **Flutter**
+- 🐳 Strong believer in **Dockerized**, reproducible environments and CI-friendly setups
+- 🌱 Currently diving deeper into **FastAPI scaling patterns** and **advanced React patterns**
 
-<!-- Banner Image -->
+---
+
+## 🛠 Tech Stack
+
+**Language & Core**
+
+- TypeScript, JavaScript  
+- Python  
+- Dart (Flutter)
+
+**Backend**
+
+- FastAPI, Flask  
+- REST APIs, JWT auth, background jobs  
+- SQL (PostgreSQL/MySQL), ORMs (SQLAlchemy, etc.)
+
+**Frontend**
+
+- React, React Router  
+- React Query / SWR, modern state management  
+- Component-driven development, reusable UI patterns
+
+**DevOps & Tools**
+
+- Docker & docker-compose  
+- Git, GitHub, GitHub Actions  
+- Linters, formatters, pre-commit, basic CI
+
+---
+
+## 🚀 Highlighted Projects
+
+<!-- Înlocuiește proiectele de mai jos cu proiectele tale reale/pinned -->
+
+- **Minifootball Management Platform**  
+  Full-stack app for managing teams, matches and stats, built with React + FastAPI, containerized with Docker.  
+  _Features: role-based access, match statistics, responsive UI._
+
+- **Crypto Trading Tools**  
+  Backend services and dashboards for tracking crypto markets, built with FastAPI and Python, integrating external APIs and custom indicators.
+
+- **Internal Ops Dashboards**  
+  Collection of dashboards and automations for monitoring and internal workflows, using React, REST APIs and SQL databases.
+
+🔗 Check more projects in my [repositories](https://github.com/Florin14?tab=repositories).
+
+---
+
+## 📊 GitHub Overview
+
 <p align="center">
-  <img 
-    src="https://plus.unsplash.com/premium_photo-1683121713210-97667d2e83c8?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-    alt="Coding banner" 
-    width="100%" 
-    height="75%"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Florin14&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florin14&layout=compact&theme=radical"
+    alt="Top Languages"
   />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🤝 Let’s Connect
 
-<p float="left">
-  <img src="https://img.shields.io/badge/-React-black?logo=react&style=flat" alt="React" height="28"/>
-  <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=flat" alt="TypeScript" height="28"/>
-  <img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat" alt="Python" height="28"/>
-  <img src="https://img.shields.io/badge/-FastAPI-black?logo=fastapi&style=flat" alt="FastAPI" height="28"/>
-  <img src="https://img.shields.io/badge/-Flutter-black?logo=flutter&style=flat" alt="Flutter" height="28"/>
-  <img src="https://img.shields.io/badge/-Docker-black?logo=docker&style=flat" alt="Docker" height="28"/>
-  <img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat" alt="Git" height="28"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat" alt="GitHub" height="28"/>
-</p>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Florin14&show_icons=true&theme=radical" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florin14&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/grigore-florin-zimbru-513706203/">
-    <img src="https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zimbru.florin.4@gmail.com">
-    <img src="https://img.shields.io/badge/Email--blue?style=flat&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
   </a>
-</div>
+</p>
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-*Last updated: <!-- --> <sub><sup>📅 <!-- -->  
-</sup></sub>
