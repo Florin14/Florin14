@@ -43,7 +43,7 @@
 **Frontend**
 
 - React, React Router  
-- React Query / SWR, modern state management  
+- React Redux, modern state management  
 - Component-driven development, reusable UI patterns
 
 **DevOps & Tools**
@@ -62,11 +62,8 @@
   Full-stack app for managing teams, matches and stats, built with React + FastAPI, containerized with Docker.  
   _Features: role-based access, match statistics, responsive UI._
 
-- **Crypto Trading Tools**  
-  Backend services and dashboards for tracking crypto markets, built with FastAPI and Python, integrating external APIs and custom indicators.
-
-- **Internal Ops Dashboards**  
-  Collection of dashboards and automations for monitoring and internal workflows, using React, REST APIs and SQL databases.
+- **Real Estate Price Prediction App**  
+  Real Estate Price Predictor is a machine learning project that estimates property prices based on features such as location, size, and amenities. It leverages regression models trained on historical market data to provide more accurate and data‑driven pricing insights for buyers, sellers, and investors.
 
 🔗 Check more projects in my [repositories](https://github.com/Florin14?tab=repositories).
 
