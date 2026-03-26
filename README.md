@@ -71,18 +71,10 @@
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Florin14&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florin14&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
-</p>
+- Public repositories: 10+ focused on full-stack apps, APIs and internal tools
+- Main languages: TypeScript, JavaScript, Python
+- Typical stack: React (TS) + FastAPI + PostgreSQL + Docker
+- Contributions: actively maintaining personal and side projects
 
 ---
 
